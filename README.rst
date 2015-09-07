@@ -1,8 +1,10 @@
 Awesome Public Datasets
 =======================
-
+.. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+   :alt: Awesome
+   :target: https://github.com/sindresorhus/awesome
 `This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
-are collected and tidyed from blogs, answers, and user reponses.
+are collected and tidied from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
@@ -25,6 +27,7 @@ Biology
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
+* `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Protein Data Bank <http://pdb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
@@ -159,7 +162,7 @@ GeoSpace/GIS
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
-* `Open Street Map (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
@@ -181,6 +184,7 @@ Government
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
+* `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `England LGInform <http://lginform.local.gov.uk/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
@@ -191,6 +195,7 @@ Government
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <http://www.data.gov.in>`_
+* `Indonesian Data Portal <http://data.go.id/>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
@@ -206,6 +211,7 @@ Government
 * `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
+* `Singapore Government Data <http://www.data.gov.sg/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
@@ -224,6 +230,7 @@ Government
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
 * `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
 * `United Nations <http://data.un.org/>`_
+* `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 
 
 Healthcare
@@ -241,7 +248,10 @@ Image Processing
 ----------------
 
 * `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
-* `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `2GB of Photos of Cats (Original down - 20Agst2015) <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
+* `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
+* `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
@@ -249,6 +259,7 @@ Image Processing
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
+* `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 
 
 Machine Learning
@@ -295,6 +306,7 @@ Natural Language
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
+* `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
@@ -354,6 +366,15 @@ Search Engines
 * `Open Data Certificates (beta) <https://certificates.theodi.org/datasets>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 
+Social Networks
+---------------
+
+* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
+* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <http://www.archive.org/details/twitter_cikm_2010>`_
+* `May 2011 Calufa Twitter Scrape <http://www.archive.org/details/2011-05-calufa-twitter-sql>`_
+* `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
+* `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
+* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 
 Social Sciences
 ---------------
@@ -363,7 +384,7 @@ Social Sciences
 * `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/917205>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
-* `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`
+* `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `Foursquare Social Network in 2010, 2011 <http://www.public.asu.edu/~hgao16/dataset.html>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
 * `General Social Survey (GSS) since 1972 <http://www3.norc.org/GSS+Website/>`_
@@ -372,9 +393,11 @@ Social Sciences
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
+* `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
@@ -385,6 +408,8 @@ Social Sciences
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
+* `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
+* `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
 
 
 Sports
@@ -393,7 +418,7 @@ Sports
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
 * `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
-* `Football/Soccer resouces (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
+* `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
 * `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
 
@@ -425,6 +450,7 @@ Transportation
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
 * `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
 
 
 Complementary Collections
