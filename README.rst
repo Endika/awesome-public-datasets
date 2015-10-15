@@ -3,12 +3,17 @@ Awesome Public Datasets
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
+.. image:: https://travis-ci.org/caesar0301/awesome-public-datasets.svg
+   :target: https://travis-ci.org/caesar0301/awesome-public-datasets
+   
 `This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
 are collected and tidied from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
+
+* `Visit our Google Group on APD <https://groups.google.com/forum/#!forum/awesomepublicdatasets>`_
 
 
 Agriculture
@@ -23,6 +28,9 @@ Biology
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
+* `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
+* `EBI ArrayExrepss <http://www.ebi.ac.uk/arrayexpress/>`_
+* `ENCODE project <https://www.encodeproject.org>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
@@ -36,6 +44,7 @@ Biology
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 
 
 Climate/Weather
@@ -97,6 +106,7 @@ Data Challenges
 
 * `Challenges in Machine Learning <http://www.chalearn.org/>`_
 * `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_
+* `CrowdANALYTIX dataX <https://www.crowdanalytix.com/datax>`_
 * `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_
 * `ICWSM Data Challenge (since 2009) <http://icwsm.cs.umbc.edu/>`_
 * `Kaggle Competition Data <http://www.kaggle.com/>`_
@@ -175,10 +185,12 @@ GeoSpace/GIS
 Government
 ----------
 
+* `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
 * `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Austria (data.gv.at) <https://www.data.gv.at/>`_
+* `Belgium <http://data.gov.be/nl/datasets>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
@@ -192,6 +204,7 @@ Government
 * `Finland <https://www.opendata.fi/en>`_
 * `France <https://www.data.gouv.fr/en/datasets/>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
+* `Ghent, Belgium <https://data.stad.gent/datasets>`_
 * `Glasgow, Scotland, UK <http://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Houston Open Data <http://data.ohouston.org>`_
@@ -242,6 +255,7 @@ Healthcare
 * `Medicare Coverage Database (MCD), U.S. <http://www.cms.gov/medicare-coverage-database/>`_
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
+* `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 
 
@@ -288,9 +302,10 @@ Museums
 
 * `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
+* `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
+* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
-* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 
 
 Natural Language
@@ -443,6 +458,7 @@ Transportation
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
+* `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
@@ -464,3 +480,4 @@ Complementary Collections
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
 * OpenDataNetwork: `A search engine of all Socrata powered data portals ranging from small cities to federal agencies and non-profits <http://opendatanetwork.com>`_
+* Zenodo: `An open dependable home for the long-tail of science, enabling researchers to share and preserve any research outputs in any size, any format and from any science. <https://zenodo.org/collection/datasets>`_
